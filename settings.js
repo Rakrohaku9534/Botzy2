@@ -13,16 +13,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //wajib ganti
-global.owner = ['085786539008'] // nomor kamu
-global.ownernomer = "085786539008" // nomor kamu
+global.owner = ['6285786539008'] // nomor kamu
+global.ownernomer = "6285786539008" // nomor kamu
 global.ownername = "fahrul" // nama kamu
 global.ytname = "fahrul2951" //nama channel 
 global.socialm = "instagram : fahrul_mt" // sosial media kamu
 global.location = "Bandung, Jawa Barat, Indonesia" // lokasi kamu
 global.botname = "BotzAku" // nama bot kamu
-global.ownernumber = '085786539008' // nomor kamu
+global.ownernumber = '6285786539008' // nomor kamu
 global.ownername = 'fahrul' // nama kamu
-global.ownerNumber = ["085786539008@s.whatsapp.net"] // nomor kamu dengan @s.whatsapp.net
+global.ownerNumber = ["6285786539008@s.whatsapp.net"] // nomor kamu dengan @s.whatsapp.net
 global.ownerweb = "https://about.me/fahrul" // website kamu
 global.websitex = "https://s.id/fahrul" //website kamu
 global.wagc = "https://chat.whatsapp.com/HZ0XzL2hYl5EtKgz15Qdfv" // link grup kamu
@@ -30,7 +30,7 @@ global.themeemoji = '=' // tema emoji kamu
 global.wm = "𝗳𝗮𝗵𝗿𝘂𝗹_𝗺𝘁" // watermark kamu
 global.packname = "BotzAku by" // nama sticker kamu
 global.author = "fahrul" // nama author sticker kamu
-global.creator = "085786539008@s.whatsapp.net" // nomor kamu
+global.creator = "6285786539008@s.whatsapp.net" // nomor kamu
 global.prefa = ['','!','.','#','&'] // tidak usah di ganti
 global.hituet = 0 // saya tidak tahu ini
 
