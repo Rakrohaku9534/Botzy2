@@ -2,7 +2,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //apikey Chat GPT
-global.keyAI = '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' 
+global.keyAI = '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' 
 
 //biarkan saja
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -25,7 +25,7 @@ global.ownername = 'fahrul' // nama kamu
 global.ownerNumber = ["6285786539008@s.whatsapp.net"] // nomor kamu dengan @s.whatsapp.net
 global.ownerweb = "https://about.me/fahrul" // website kamu
 global.websitex = "https://s.id/fahrul" //website kamu
-global.wagc = "https://chat.whatsapp.com/HZ0XzL2hYl5EtKgz15Qdfv" // link grup kamu
+global.wagc = "https://chat.whatsapp.com/FSbrP6LWWm4A8i8uGdyDTs" // link grup kamu
 global.themeemoji = '=' // tema emoji kamu
 global.wm = "𝗳𝗮𝗵𝗿𝘂𝗹_𝗺𝘁" // watermark kamu
 global.packname = "BotzAku by" // nama sticker kamu
